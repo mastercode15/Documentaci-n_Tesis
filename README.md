@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1Yce2uQn6_YTGzqF1pDXna94nv8M4Nt8P?usp=sha
 
 ## Esctructura
 #### • Arquitectura
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/database.png)
+![image](https://drive.google.com/file/d/1mNDe0HlDAqHK9cvW_lfFJk6Zgsv-XR_v/view?usp=sharing)
 
 #### • Base de datos
 ![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/database.png)
