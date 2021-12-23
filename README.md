@@ -24,10 +24,10 @@ https://drive.google.com/drive/folders/1Yce2uQn6_YTGzqF1pDXna94nv8M4Nt8P?usp=sha
 
 ## Esctructura
 #### • Arquitectura
-![image](https://drive.google.com/file/d/1mNDe0HlDAqHK9cvW_lfFJk6Zgsv-XR_v/view?usp=sharing)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/arquitectura.png)
 
 #### • Base de datos
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/database.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/baseDedatos.png)
 
 ## Sprints
 ### Sprint 0
@@ -66,22 +66,25 @@ https://drive.google.com/drive/folders/1Yce2uQn6_YTGzqF1pDXna94nv8M4Nt8P?usp=sha
 
 ## Funcionalidades de la aplicación
 ### Iniciar sesión
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/inicioDeSesion.png)
 
 ### Perfil
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/perfil.png)
 
 ### Creación de encuestas
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/creacionDeEncuestas.png)
 
 ### Responder encuestas
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/responderEncuestas.png)
 
 ### Visualización de encuestas (estudiante)
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/visualizacionEncuestasEstudiante.png)
 
 ### Visualización de encuestas (docente)
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/encuestasProfe.png)
 
-### Visualización de respuestas en un tablero
-![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+### Tablero de encuestas respondidas
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/encuestasRealizadasProfe.png)
+
+### Visualización de respuestas a detalle
+![image](https://github.com/mastercode15/Documentacion_Tesis/blob/main/images/respuestas.png)
