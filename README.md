@@ -12,5 +12,76 @@ https://github.com/ANP-2020A/proyecto-semestre-frontend-esfot-feedback
 https://drive.google.com/drive/folders/1Yce2uQn6_YTGzqF1pDXna94nv8M4Nt8P?usp=sharing 
 
 ## Herramientas de Desarrollo
-##### • [Laravel](https://github.com/ANP-2020A/proyecto-semestre-frontend-esfot-feedback)
-##### • Next JS
+#### • [XAMPP](https://www.apachefriends.org/es/index.html)
+#### • [Composer](https://getcomposer.org/)
+#### • [JWT](https://jwt.io/)
+#### • [ReactJs](https://es.reactjs.org/)
+#### • [Vercel](https://vercel.com/)
+#### • [Laravel](https://laravel.com/)
+#### • [Heroku](https://www.heroku.com/)
+#### • [MySQL](https://www.mysql.com/)
+#### • [AlwaysData](https://www.alwaysdata.com/en/)
+
+## Esctructura
+#### • Arquitectura
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/database.png)
+
+#### • Base de datos
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/database.png)
+
+## Sprints
+### Sprint 0
+##### •	Creación de mockups
+##### •	Diseño de base de datos
+
+### Sprint 1
+##### •	Creación de relaciones
+##### •	Creación de EndPoints
+##### •	Creación de recursos
+##### •	Creación de seeders
+
+### Sprint 2
+##### •	Implementación de JWT para autenticación de usuarios
+##### •	Conexión entre el backend y el frontend
+##### •	Diseño de página principal
+##### •	Implementación de rutas de navegación
+##### •	Diseño de página de inicio de sesión
+##### •	Diseño de página de perfil
+
+### Sprint 3
+##### •	Implementación de roles
+##### •	Implementación de autorización de usuarios
+
+### Sprint 4
+##### •	Diseño de página de encuestas (Creación de encuestas)
+##### •	Diseño de página de encuestas (Envío de respuestas a las encuestas)
+
+### Sprint 5
+##### •	Diseño de página de encuestas (Visualización de encuestas)
+##### •	Diseño de tablero de visualización de encuestas para docentes
+
+### Sprint 6
+##### •	Despliegue del sistema 
+##### •	Pruebas de funcionalidad, de carga y compatibilidad
+
+## Funcionalidades de la aplicación
+### Iniciar sesión
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Perfil
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Creación de encuestas
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Responder encuestas
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Visualización de encuestas (estudiante)
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Visualización de encuestas (docente)
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
+
+### Visualización de respuestas en un tablero
+![image](https://github.com/MCris29/fuhped-frontend/blob/dev/images/login.png)
