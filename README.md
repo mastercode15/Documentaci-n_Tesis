@@ -12,5 +12,5 @@ https://github.com/ANP-2020A/proyecto-semestre-frontend-esfot-feedback
 https://drive.google.com/drive/folders/1Yce2uQn6_YTGzqF1pDXna94nv8M4Nt8P?usp=sharing 
 
 ## Herramientas de Desarrollo
-##### • Laravel [https://github.com/ANP-2020A/proyecto-semestre-frontend-esfot-feedback]
+##### • [Laravel](https://github.com/ANP-2020A/proyecto-semestre-frontend-esfot-feedback)
 ##### • Next JS
